@@ -1,3 +1,4 @@
 # Blog-preview-card-frontend-mentor
 Blog preview card frontend challenge
-![Frontend Mentor _ Blog preview card - Google Chrome 08_09_2024 03_00_47](https://github.com/user-attachments/assets/cf7f6eb7-3d59-4505-a22b-d78b42ba6850)
+
+![Frontend Mentor _ Blog preview card - Google Chrome 08_09_2024 03_00_47 (2)](https://github.com/user-attachments/assets/7eba5080-99a4-419a-a5eb-f4017bc36073)
